@@ -35,7 +35,7 @@ This project provides a detailed analysis of server performance metrics includin
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/server-performance-stats.git
+   git clone https://github.com/ashutoshshelke20/server-performance-stats.git
    cd server-performance-stats
    ```
 

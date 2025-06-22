@@ -1,5 +1,3 @@
-# server-performance-stats
-
 # Server Performance Stats
 
 A comprehensive shell script to analyze and display server performance statistics on Linux systems.

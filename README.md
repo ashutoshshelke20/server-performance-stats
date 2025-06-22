@@ -184,12 +184,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/server-performance-stats/issues) section
+1. Check the [Issues](https://github.com/ashutoshshelke20/server-performance-stats/issues) section
 2. Create a new issue with detailed information
 3. Include your OS version and error messages
 
 ---
 
-**Project URL**: https://github.com/yourusername/server-performance-stats
+**Project URL**: https://github.com/ashutoshshelke20/server-performance-stats
 
 Made with ❤️ for the DevOps community
